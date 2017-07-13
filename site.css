@@ -10,13 +10,3 @@
 #image-gallery > .row img {
      padding:10px;
 }
-.page-text {
-     padding-top:50px;
-     padding-bottom:50px;
-}
-.page-text > h2 {
-     font-size: 3em;
-}
-.page-text > p {
-     font-size: 1.25em;
-}
